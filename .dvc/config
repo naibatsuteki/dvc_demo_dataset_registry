@@ -1,0 +1,4 @@
+['remote "s3remote"']
+url = s3://putent-online-dvc-demo/post1
+[core]
+remote = s3remote
